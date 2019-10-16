@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyLearn</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered">Not_Registered</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">註冊好了?</string>
+</resources>
